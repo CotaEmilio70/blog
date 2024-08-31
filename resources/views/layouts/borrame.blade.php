@@ -7,6 +7,6 @@
     <title>Nuevos cambios</title>
 </head>
 <body>
-    puse algo aqui
+    Modifique esta linea
 </body>
 </html>
